@@ -1,38 +1,56 @@
-<h2 align="center">
-  Portfolio Website - Vitaliy Sviridyuk<br/>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img-Vitaliy.png" />
-</div>
+# Vitaliy Sviridyuk Portfolio
 
-<br/>
+[![Portfolio preview](./Images/readme-portfolio.png)](https://veathen.github.io/Portfolio)
 
+Personal portfolio site for showcasing my software engineering experience, projects, resume, and contact links. The current version is a custom React rebuild with a glassmorphic interface and an animated Three.js galaxy background.
 
+Live site: [veathen.github.io/Portfolio](https://veathen.github.io/Portfolio)
 
-## Built With
+## Highlights
 
-My personal <a href="https://veathen.github.io/Portfolio" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+- Animated Three.js galaxy with a black-hole focal point and scroll-reactive motion
+- Glassmorphic single-page layout for about, experience, projects, and resume sections
+- Updated post-graduation copy and current resume download
+- Featured senior project assets, including the AI Legacy Code Converter logo and poster PDF
+- GitHub Pages deployment support through `gh-pages`
 
-This project was built using these technologies.
+## Tech Stack
 
-- React.js
-- Node.js
-- Express.js
+- React 17
+- Three.js
 - CSS3
-- VsCode
-- Vercel
+- React Icons
+- Create React App
+- GitHub Pages
 
+## Local Setup
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Install dependencies:
 
-## 🛠 Installation and Setup Instructions
+```bash
+npm install
+```
 
-1. Installation: `npm install`
+Run the development server:
 
-2. In the project directory, you can run: `npm start`
+```bash
+npm start
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+The app is configured for the `/Portfolio` base path. Locally, open:
 
-Original Repo Credit: [Soumyajit4419](https://github.com/soumyajit4419/Portfolio)
+[http://localhost:3000/Portfolio](http://localhost:3000/Portfolio)
+
+## Build And Deploy
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+Deploy to GitHub Pages:
+
+```bash
+npm run deploy
+```
