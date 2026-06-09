@@ -1,31 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.dcedcd9e.css",
-    "main.js": "/Portfolio/static/js/main.65d8e859.js",
-    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "main.css": "/Portfolio/static/css/main.f3475c18.css",
+    "main.js": "/Portfolio/static/js/main.831d8449.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Senior Project Poster.pdf": "/Portfolio/static/media/Senior Project Poster.ba0f3e7d6d1754878c49.pdf",
     "static/media/Portrait.jpg": "/Portfolio/static/media/Portrait.92bda6159321c601496b.jpg",
-    "static/media/aboutBackground.png": "/Portfolio/static/media/aboutBackground.78c7e91e03d9dd26c626.png",
-    "static/media/Mountain lavalamp.png": "/Portfolio/static/media/Mountain lavalamp.dac8f92628a76f4cff23.png",
     "static/media/Envirogram.png": "/Portfolio/static/media/Envirogram.7f02bb0ac491757aa156.png",
-    "static/media/Cat paw cleared.png": "/Portfolio/static/media/Cat paw cleared.6c1e9d2f5202f3ce5d96.png",
-    "static/media/About Image.png": "/Portfolio/static/media/About Image.41dccfd84733f45dbd40.png",
-    "static/media/VitaliyMain.png": "/Portfolio/static/media/VitaliyMain.46c3b666a26db9b1c7d6.png",
-    "static/media/Resume_Vitaliy_Sviridyuk_Winter_2023.pdf": "/Portfolio/static/media/Resume_Vitaliy_Sviridyuk_Winter_2023.32f27f1b2459a7e40c39.pdf",
-    "static/media/logo.png": "/Portfolio/static/media/logo.817b58650f32b9849ccd.png",
+    "static/media/ai code converter logo.png": "/Portfolio/static/media/ai code converter logo.cde16b2898cfdc20494c.png",
+    "static/media/Vitaliy_Sviridyuk_Resume_Summer_2026.pdf": "/Portfolio/static/media/Vitaliy_Sviridyuk_Resume_Summer_2026.b9f33fbe797d8591d165.pdf",
     "static/media/Estore.png": "/Portfolio/static/media/Estore.5740d716279c40731066.png",
     "static/media/Schema.png": "/Portfolio/static/media/Schema.11a1d8b6f556074d6580.png",
     "static/media/Midi.jpg": "/Portfolio/static/media/Midi.fe4c970607f14ec6aea3.jpg",
     "static/media/Combojumper logo.png": "/Portfolio/static/media/Combojumper logo.a82eb20a28ec851baad9.png",
-    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
-    "main.dcedcd9e.css.map": "/Portfolio/static/css/main.dcedcd9e.css.map",
-    "main.65d8e859.js.map": "/Portfolio/static/js/main.65d8e859.js.map",
-    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "main.f3475c18.css.map": "/Portfolio/static/css/main.f3475c18.css.map",
+    "main.831d8449.js.map": "/Portfolio/static/js/main.831d8449.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcedcd9e.css",
-    "static/js/main.65d8e859.js"
+    "static/css/main.f3475c18.css",
+    "static/js/main.831d8449.js"
   ]
 }
