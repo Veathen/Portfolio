@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/VitaliyMain.png";
+import homeLogo from "../../Assets/Portrait.jpg";
 import paw from "../../Assets/Cat paw cleared.png"
 import Particle from "../Particle";
 import Home2 from "./Home2";
@@ -36,7 +36,7 @@ function Home() {
               <Tilt>
                 <img
                   src={homeLogo}
-                  alt="home pic"
+                  alt="Portrait of Vitaliy Sviridyuk"
                   className="home-main-image img-fluid"
                   style={{ maxHeight: "450px" }}
                 />

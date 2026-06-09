@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            As a software engineering student, I possess a passion for technology and a deep interest in the limitless possibilities it brings to our world. I am constantly driven to explore new concepts, sharpen my skills and stay ahead of the ever-evolving technological landscape. I possess a unique blend of creativity, critical thinking and technical skills that enable me to approach problems from different angles and find innovative solutions. I am eager to take on new challenges and put my abilities to the test as I strive to make a meaningful impact in the field of software engineering.
+            As a Software Engineering graduate from RIT, I bring experience across full-stack development, DevOps tooling, cloud infrastructure, and embedded systems. I am currently looking for my next software engineering role and enjoy building practical systems that are reliable, maintainable, and clear for the people using them.
               <br />
               <br />I am fluent in technologies such as
               <i>

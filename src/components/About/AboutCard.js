@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="red">Vitaliy Sviridyuk </span>
             from <span className="red"> Rochester, Ny.</span>
             <br />
-            I am currently enrolled as a third year Software engineering student at RIT.
+            I am a Software Engineering graduate from Rochester Institute of Technology and am currently seeking my next software engineering role.
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
